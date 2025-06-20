@@ -7,5 +7,4 @@ This project is a fully functional Book Management REST API built with FastAPI a
 JWT-based Authentication
 Create, Get (with filters), and Delete Book APIs
 User Registration and Login
-SQLite Database via SQLAlchemy ORM
-Interactive Swagger UI at /docs
+SQLite Database 
